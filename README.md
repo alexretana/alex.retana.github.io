@@ -1,2 +1,2 @@
-# alex.retana.github.io
+# alexretana.github.io
 Profile Page
