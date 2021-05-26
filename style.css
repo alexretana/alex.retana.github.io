@@ -1,3 +1,12 @@
-body {
-    background-image: linear-gradient(to bottom right, rgb(59, 176, 253), teal, rgb(3, 192, 129))
+html {
+    background-image: linear-gradient(to bottom right, rgb(59, 176, 253),white,white, white, teal, rgb(3, 192, 129))
+}
+
+.container-fluid {
+    color: lightseagreen;
+    background-color: black
+}
+.container {
+    color: lightseagreen;
+    background-color: black
 }
