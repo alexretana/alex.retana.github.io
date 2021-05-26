@@ -1,12 +1,8 @@
-html {
-    background-image: linear-gradient(to bottom right, rgb(59, 176, 253),white,white, white, teal, rgb(3, 192, 129))
+.page {
+    color: lightseagreen;
+    background-color: rgba(51, 51, 51, 0.801)
 }
 
-.container-fluid {
-    color: lightseagreen;
-    background-color: black
-}
-.container {
-    color: lightseagreen;
-    background-color: black
+.image {
+    opacity: 1.0;
 }
