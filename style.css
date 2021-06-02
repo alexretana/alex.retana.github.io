@@ -27,3 +27,13 @@ a:hover{
         margin-bottom: 10px; /* Added */
         color : skyblue
 }
+
+.bg {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(/assets/background-img.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
