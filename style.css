@@ -1,7 +1,7 @@
 .container {
     color: lightseagreen;
     background-color: rgba(51, 51, 51, 0.501);
-    height: 100vh;
+    height: 115vh;
 }
 
 *{
@@ -40,4 +40,8 @@ body, html {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+#face-img {
+    border-radius : 50%;
 }
