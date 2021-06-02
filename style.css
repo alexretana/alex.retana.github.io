@@ -42,6 +42,11 @@ body, html {
   background-size: cover;
 }
 
+.card-img-top:hover {
+    transform: scale(1.03)
+}
+
+
 #face-img {
     border-radius : 50%;
 }
