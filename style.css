@@ -9,3 +9,20 @@ table {
     background-color: skyblue;
     color: rgba(51, 51, 51, 0.801);
 }
+
+*{
+    list-style-type: None;
+}
+
+h1, h2{
+    text-shadow: -1px 0 rgb(87, 87, 87), 0 1px rgb(87, 87, 87), 1px 0 rgb(87, 87, 87), 0 -1px rgb(87, 87, 87);
+}
+
+a{
+    color : #ffffff;
+    text-decoration : none
+}
+
+a:hover{
+    color : #bbbbbb;
+}
